@@ -29,5 +29,6 @@ lxml
 langchainhub
 streamlit
 langsmith
+langgraph
 
 -e .
