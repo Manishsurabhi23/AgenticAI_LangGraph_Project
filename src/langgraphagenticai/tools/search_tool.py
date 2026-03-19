@@ -1,5 +1,4 @@
 from langchain_community.tools.tavily_search import TavilySearchResults
-from langchain_community.tools.tavily_search import TavilySearchResults
 from langgraph.prebuilt import ToolNode
 # # NEW (LangGraph 1.1+)
 # from langchain.agents import ToolNode
